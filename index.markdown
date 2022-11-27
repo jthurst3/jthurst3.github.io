@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+
+<p align="center">
+  <img src="/images/profile_pic.jpg" />
+</p>
